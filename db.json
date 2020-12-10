@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "weather": {
+      "location": "guangzhou",
+      "result": "晴转多云"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
