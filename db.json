@@ -1,6 +1,10 @@
 {
   "weather": {
+    "status": "success",
+    "code": 200,
+    "data": {
       "location": "guangzhou",
       "result": "晴转多云"
     }
+  }
 }
