@@ -1,11 +1,18 @@
 {
   "getWeather": {
-    "status": "success",
     "code": 200,
+    "status": "success",
     "data": {
       "location": "guangzhou",
       "weather": "晴转多云",
       "displayIcon": "https://img.88icon.com/download/jpg/202001/1072f84e7cefab8761d34f3506f6f139.jpg!88con"
+    }
+  },
+  "test": {
+    "code": 200,
+    "status": "success",
+    "data": {
+      "result": "Hello World!"
     }
   }
 }
