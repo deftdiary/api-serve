@@ -14,5 +14,15 @@
     "data": {
       "result": "Hello World!"
     }
+  },
+  "sales": {
+    "s1": {
+      "username": "Mars",
+      "volume": 120
+    },
+    "s2": {
+      "username": "Deft",
+      "volume": 100
+    }
   }
 }
