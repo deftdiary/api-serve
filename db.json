@@ -23,6 +23,10 @@
     "s2": {
       "username": "Deft",
       "volume": 100
+    },
+    "s3": {
+      "username": "DF",
+      "volume": 101
     }
   }
 }
